@@ -49,8 +49,11 @@ Decision-makers at Arcadia should focus on nurturing relationships with both exi
 The Shape Map visual highlights total sales by state, with New York leading in sales, followed by California, Texas, and Florida as top-performing states for Arcadia Company. The darker shading indicates higher sales in these regions.
 
 
+- __Total Sales by Region Insights__
 
+<img width="307" alt="Sales by Region" src="https://github.com/user-attachments/assets/bac94ec5-39b0-46cc-8ac7-c1f139446204">
 
+The Donut Chart visualizes total sales by region, revealing the West as the top-performing region, contributing £270M (30%) of the annual sales. The Northeast follows with £186M (20.26%). The Midwest region recorded the lowest sales, with £136M (15.19%), indicating potential for growth in that area. These insights suggest focusing efforts on sustaining success in the West while exploring strategies to boost performance in the Midwest.
 
 
 
