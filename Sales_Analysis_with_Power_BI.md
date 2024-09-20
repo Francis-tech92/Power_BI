@@ -24,7 +24,7 @@ The sales company needs a comprehensive dashboard to track and analyze total sal
 
 ## Data Source Statement for Sales Data (Power BI)
 
-The sales data used in this Power BI report is sourced from JustIT training centre. The data inlude products sold across various states, regions, and retailers in the United State. The dataset comprises fields such as sales amount, product categories, sales date, geographic locations (state and region), and retailer information. The data has been cleaned and transformed using Power Query to ensure consistency and accuracy before being loaded into Power BI for analysis and visualization.
+The sales data used in this Power BI report is sourced from Datacamp online training centre. The data inlude products sold across various states, regions, and retailers in the United State. The dataset comprises fields such as sales amount, product categories, sales date, geographic locations (state and region), and retailer information. The data has been cleaned and transformed using Power Query to ensure consistency and accuracy before being loaded into Power BI for analysis and visualization.
 
 ## Data Analytics Tools
 This project utilizes Power BI for data visualization and analysis. The sales data was extracted, cleaned, and transformed using Power Query. The visualizations include total sales by month, state, region, product, and retailer to support business decision-making.
