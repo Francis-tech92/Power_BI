@@ -9,7 +9,7 @@ Throughout this Power BI-driven analysis, Arcadia aims to empower its decision m
 - Action recommendation for optimizing Sales and profit across various dimensions
 
 
-### PROBLEM STAEMENT
+### PROBLEM STATEMENT
 
 The sales company needs a comprehensive dashboard to track and analyze total sales by month, state, region, product, and retailer, to identify trends and optimize business performance.
 
